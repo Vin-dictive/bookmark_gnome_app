@@ -83,13 +83,6 @@ Additional code was contributed by:
 Nneko Branche
 Larissa Reis
 
-Translators:
-gmg (Chinese)
-Nuno Martins (Portuguese)
-jonnius (German)
-Maestroschan (French)
-
-
 Interface mock-ups:
 Stephen Michel
 
@@ -98,4 +91,5 @@ Thank you!
 ##Licence
 This code is released under GPLv2+
 
+# bookmark_gnome_app
 # bookmark_gnome_app
